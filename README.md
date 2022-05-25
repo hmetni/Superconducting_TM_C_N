@@ -47,4 +47,4 @@ conda activate Superconducting_TM_C_N
 
 The next step is to install the requirements. The main packages required for this work are: pandas, scikit-learn, umap, seaborn, matplotlib and matminer.  
 
-Once the requirements are installed, the notebooks can be executed.
+Once the requirements are installed, the notebooks can be executed in interfaces such as Jupyter Notebook.
