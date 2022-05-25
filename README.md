@@ -5,7 +5,7 @@ Metal Carbides and Nitrides using Machine Learning".
 
 The dataset is contained in the file: *dataset.csv*. It contains the following columns:
 
-**- num**: whether the compound was extracted (EXTR) or was found in the SuperCon database (the corresponding compound number)
+**- num**: whether the compound was extracted (EXT) or was found in the SuperCon database (the corresponding compound number)
 
 **- compound**: the compound
 
