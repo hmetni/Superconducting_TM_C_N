@@ -1,6 +1,6 @@
 # Superconducting_TM_C_N
 
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![DOI](https://zenodo.org/badge/495465721.svg)](https://zenodo.org/badge/latestdoi/495465721)
+[![DOI](https://zenodo.org/badge/495465721.svg)](https://zenodo.org/badge/latestdoi/495465721)
 
 Dataset and code used in "Predicting the Superconducting Critical Temperature in Transition
 Metal Carbides and Nitrides using Machine Learning".
