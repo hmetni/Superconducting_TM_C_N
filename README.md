@@ -1,5 +1,7 @@
 # Superconducting_TM_C_N
 
+[![DOI](https://zenodo.org/badge/495465721.svg)](https://zenodo.org/badge/latestdoi/495465721)
+
 Dataset and code used in "Predicting the Superconducting Critical Temperature in Transition
 Metal Carbides and Nitrides using Machine Learning".
 
